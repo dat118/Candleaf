@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Spiced Mint",
+    "description": "All hand-made with natural soy wax, Candleaf is made for your pleasure moments.",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/product1.fab5cc0599d70de19607.png",
+    "price": 9.99,
+    "isPopular": true,
+    "apiID": "price_1NBvBYGdt649a7LRgYCwsyjx"
+  },
+  {
+    "id": 2,
+    "title": "Sweet Strawberry",
+    "description": "All hand-made with natural soy wax, Candleaf is made for your pleasure moments.",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/product2.9a1161c11130a81f91ba.png",
+    "price": 9.99,
+    "isPopular": true,
+    "apiID": "price_1NBvY2Gdt649a7LR3jI87dgy"
+  },
+  {
+    "id": 3,
+    "title": "Cool Blueberries",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/blueberry.6a550b9e17c012e5d4cb.png",
+    "description": "All hand-made with natural soy wax, Candleaf is made for your pleasure moments.",
+    "price": 9.99,
+    "isPopular": true,
+    "apiID": "price_1NBvZKGdt649a7LRFz7UhJmB"
+  },
+  {
+    "id": 4,
+    "title": "Juicy Lemon",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/golden.dd5c148ece5622d2782a.png",
+    "description": "All hand-made with natural soy wax, Candleaf is made for your pleasure moments.",
+    "price": 9.99,
+    "isPopular": true,
+    "apiID": "price_1NBvaFGdt649a7LRgMHqsnmA"
+  },
+  {
+    "id": 5,
+    "title": "Rosebery",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/cinamon.c6a0f374a954198be0e1.png",
+    "description": "All hand-made with natural soy wax, Candleaf is made for your pleasure moments.",
+    "price": 9.99,
+    "isPopular": false,
+    "apiID": "price_1NBvbDGdt649a7LRrEIETfyy"
+  },
+  {
+    "id": 6,
+    "title": "Fragrant Cinnamon",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/lemon.25f6778828a2320ec0a4.png",
+    "description": "All hand-made with natural soy wax, Candleaf is made for your pleasure moments.",
+    "price": 9.99,
+    "isPopular": false,
+    "appID": "price_1NBvbwGdt649a7LRmqDFAm9T"
+  },
+  {
+    "id": 7,
+    "title": "Summer Cherries",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/cherry.60c21065eb4406a7f2fb.png",
+    "description": "All hand-made with natural soy wax, Candleaf is made for your pleasure moments.",
+    "price": 9.99,
+    "isPopular": false,
+    "apiID": "price_1NBvdOGdt649a7LRQVDeTW4s"
+  },
+  {
+    "id": 8,
+    "title": "Clean Lavander",
+    "description": "All hand-made with natural soy wax, Candleaf is made for your pleasure moments.",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/product1.fab5cc0599d70de19607.png",
+    "price": 9.99,
+    "isPopular": false,
+    "apiID": "price_1NBveJGdt649a7LRZz4oTbPm"
+  }
+]

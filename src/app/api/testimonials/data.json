@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "rate": 4,
+    "quote": "I love it! No more air fresheners",
+    "author": "Luisa",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/user1.a53d5804a1a1d7cd8234.png"
+  },
+  {
+    "id": 2,
+    "rate": 5,
+    "quote": "Raccomended for everyone",
+    "author": "Edoardo",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/user2.bb1d41d5b7d50f946946.png"
+  },
+  {
+    "id": 3,
+    "rate": 3,
+    "quote": "Looks very natural, the smell is awesome",
+    "author": "Mart",
+    "image": "https://ecommerce-nine-bay.vercel.app/static/media/user3.bac4862b982968fde686.png"
+  }
+]
